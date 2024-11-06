@@ -1,4 +1,4 @@
-module github.com/osteele/liquid
+module github.com/sparklayer-io/liquid
 
 go 1.22
 
