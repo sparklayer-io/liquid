@@ -7,7 +7,7 @@ import (
 
 	yaml "gopkg.in/yaml.v2"
 
-	"github.com/osteele/liquid/expressions"
+	"github.com/sparklayer-io/liquid/expressions"
 	"github.com/stretchr/testify/require"
 )
 

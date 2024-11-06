@@ -3,9 +3,9 @@ package liquid
 import (
 	"io"
 
-	"github.com/osteele/liquid/filters"
-	"github.com/osteele/liquid/render"
-	"github.com/osteele/liquid/tags"
+	"github.com/sparklayer-io/liquid/filters"
+	"github.com/sparklayer-io/liquid/render"
+	"github.com/sparklayer-io/liquid/tags"
 )
 
 // An Engine parses template source into renderable text.
@@ -45,7 +45,7 @@ func (e *Engine) RegisterBlock(name string, td Renderer) {
 //
 // Examples:
 //
-// * https://github.com/osteele/liquid/blob/main/filters/standard_filters.go
+// * https://github.com/sparklayer-io/liquid/blob/main/filters/standard_filters.go
 //
 // * https://github.com/osteele/gojekyll/blob/master/filters/filters.go
 func (e *Engine) RegisterFilter(name string, fn any) {

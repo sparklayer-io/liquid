@@ -8,9 +8,9 @@ import (
 	"testing"
 	"time"
 
-	e "github.com/osteele/liquid/expressions"
+	e "github.com/sparklayer-io/liquid/expressions"
 
-	"github.com/osteele/liquid/parser"
+	"github.com/sparklayer-io/liquid/parser"
 	"github.com/stretchr/testify/require"
 )
 

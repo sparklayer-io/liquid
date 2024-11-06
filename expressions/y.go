@@ -8,7 +8,7 @@ import __yyfmt__ "fmt"
 //line expressions.y:2
 import (
 	"fmt"
-	"github.com/osteele/liquid/values"
+	"github.com/sparklayer-io/liquid/values"
 )
 
 func init() {

@@ -6,7 +6,7 @@ import (
 	"io"
 	"testing"
 
-	"github.com/osteele/liquid/parser"
+	"github.com/sparklayer-io/liquid/parser"
 	"github.com/stretchr/testify/require"
 )
 

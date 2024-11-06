@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/osteele/liquid/values"
+	"github.com/sparklayer-io/liquid/values"
 )
 
 // An InterpreterError is an error during expression interpretation.

@@ -4,8 +4,8 @@ package tags
 import (
 	"io"
 
-	"github.com/osteele/liquid/expressions"
-	"github.com/osteele/liquid/render"
+	"github.com/sparklayer-io/liquid/expressions"
+	"github.com/sparklayer-io/liquid/render"
 )
 
 // AddStandardTags defines the standard Liquid tags.

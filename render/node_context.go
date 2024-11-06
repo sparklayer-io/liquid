@@ -1,7 +1,7 @@
 package render
 
 import (
-	"github.com/osteele/liquid/expressions"
+	"github.com/sparklayer-io/liquid/expressions"
 )
 
 // nodeContext provides the evaluation context for rendering the AST.
